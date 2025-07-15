@@ -5,7 +5,6 @@ This project tests and measures how long the stepper motor can move on my platfo
 **Motor:** OE005-00  
 **Platform:** A 3D printer used as a motion stage (printing function disabled).
 
-> 📏
 > **Working range:**
 > The platform has an overall width of about**22 cm**
 > The platform has an overall length of about **30 cm**, but only **22 cm** of that length is usable for motion.  
