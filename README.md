@@ -12,5 +12,7 @@ This project tests and measures how long the stepper motor can move on my platfo
 > The platform has an overall length of about **30 cm**, but only **22 cm** of that length is usable for motion.
 > 
 > The remaining ~8 cm is occupied by the base and mechanical structure, so the actual travel distance is limited accordingly.
+>
+> https://www.canva.com/design/DAGs0rfo2w4/JDNniUQ-AJa-kXxMdUAiBg/edit
 
 
